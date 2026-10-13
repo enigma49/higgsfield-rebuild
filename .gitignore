@@ -1,0 +1,10 @@
+# Local session handoff notes (not part of the submission)
+.claude/handoff/
+.claude/settings.local.json
+
+# Build output / deps
+node_modules/
+.next/
+.vercel/
+.env*
+!.env.example
